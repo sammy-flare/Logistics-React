@@ -4,6 +4,7 @@ import Hero from './components/Hero'
 import Objectives from './components/Objectives'
 import Track from './components/Track'
 import Services from './components/Services'
+import Facility from './components/Facility'
 const App = () => {
   return (
     <div>
@@ -12,6 +13,7 @@ const App = () => {
       <Objectives />
       <Track />
       <Services />
+      <Facility />
     </div>
   )
 }

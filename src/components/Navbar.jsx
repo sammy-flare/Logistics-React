@@ -12,7 +12,7 @@ const Navbar = () => {
             <div className='flex gap-4 items-center'>
                 <ul className='flex gap-4 text-navtext'>
                     <li><a href="#services">Services</a></li>
-                    <li><a href="./track.html">Tracking</a></li>
+                    <li><a href="#tracking">Tracking</a></li>
                     <li><a href="#about">About</a></li>
                     <li><a href="#contact">Contact</a></li>
                 </ul>
