@@ -6,6 +6,7 @@ import Track from './components/Track'
 import Services from './components/Services'
 import Facility from './components/Facility'
 import Impact from './components/Impact'
+import Testimonial from './components/Testimonial'
 const App = () => {
   return (
     <div>
@@ -16,6 +17,7 @@ const App = () => {
       <Services />
       <Facility />
       <Impact />
+      <Testimonial />
     </div>
   )
 }
