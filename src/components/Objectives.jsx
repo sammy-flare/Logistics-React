@@ -43,13 +43,13 @@ const Objectives = () => {
         }
     ]
   return (
-    <div className="bg-gray-100 py-8 px-4 font-sans">
+    <div className="bg-gray-100 py-15 px-4 font-sans">
         
-        <h2 className='text-4xl font-bold text-center mt-4 mb-2'>Why Choose Swift Logistics?</h2>
+        <h2 className='text-4xl font-bold text-center mt-4 mb-4'>Why Choose Swift Logistics?</h2>
         <p className='text-2xl text-navtext font-semibold text-center'>We provide comprehensive logistics solutions tailored to your business needs.</p>
         
 
-        <div className="flex gap-6 mt-8">
+        <div className="flex gap-6 mt-10">
         {objectives.map((objective) => (
             <ObjectiveCard
                 id={objective.id}
