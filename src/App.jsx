@@ -7,6 +7,7 @@ import Services from './components/Services'
 import Facility from './components/Facility'
 import Impact from './components/Impact'
 import Testimonial from './components/Testimonial'
+import GetQoute from './components/GetQoute'
 const App = () => {
   return (
     <div>
@@ -18,6 +19,7 @@ const App = () => {
       <Facility />
       <Impact />
       <Testimonial />
+      <GetQoute />
     </div>
   )
 }
