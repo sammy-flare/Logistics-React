@@ -43,7 +43,7 @@ const Objectives = () => {
         }
     ]
   return (
-    <div className="bg-gray-100 py-15 px-4 font-sans">
+    <div className="bg-white py-15 px-4 font-sans">
         
         <h2 className='text-4xl font-bold text-center mt-4 mb-4'>Why Choose Swift Logistics?</h2>
         <p className='text-2xl text-navtext font-semibold text-center'>We provide comprehensive logistics solutions tailored to your business needs.</p>

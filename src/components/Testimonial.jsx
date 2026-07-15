@@ -28,7 +28,7 @@ const Testimonial = () => {
         }
     ]
   return (
-    <div className='bg-gray-100 py-16 px-8 font-sans'>
+    <div className='py-20 bg-gray-50 px-8 font-sans'>
         <h2 className='text-4xl font-bold text-center mt-2 mb-3'>What Our Clients Say</h2>
         <p className='  font-semibold text-center'>Don't just take our word for it - hear from our satisfied customers.</p>
       <div className='grid grid-cols-3 gap-10 mt-10 px-3'>

@@ -5,7 +5,7 @@ const TestimonialCard = ({ id, title, name, pos, img }) => {
   return (
     
    <div id={id}>
-        <div className='bg-white rounded-lg px-5 py-6 shadow-[0px_0px_42px_-7px_rgba(0,0,0,0.68),0px_1px_0px_0px_rgba(0,0,0,0.05),0px_2px_2px_0px_rgba(0,0,0,0.05),0px_2px_4px_0px_rgba(0,0,0,0.05)]'>
+        <div className='bg-white rounded-lg px-5 py-6 shadow-[0px_0px_17px_2px_rgba(0,0,0,0.39)] hover:shadow-[0px_0px_34px_9px_rgba(0,0,0,0.49)]'>
             <div className=" mb-4">
                 <img src={RatingStar} alt="Rating Star" class="rating-star" className="w-38 h-8"/>
             </div>

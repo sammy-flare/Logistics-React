@@ -11,10 +11,10 @@ const Navbar = () => {
         <nav>
             <div className='flex gap-4 items-center'>
                 <ul className='flex gap-4 text-navtext'>
-                    <li><a href="#services">Services</a></li>
-                    <li><a href="#tracking">Tracking</a></li>
-                    <li><a href="#about">About</a></li>
-                    <li><a href="#contact">Contact</a></li>
+                    <li><a href="#services" className='hover:text-blue-600'>Services</a></li>
+                    <li><a href="#tracking" className='hover:text-blue-600'>Tracking</a></li>
+                    <li><a href="#about" className='hover:text-blue-600'>About</a></li>
+                    <li><a href="#contact" className='hover:text-blue-600'>Contact</a></li>
                 </ul>
             <div>
             <Buttons b1="Get Quote"/>
