@@ -8,8 +8,8 @@ const GetQoute = () => {
             <h2 className='text-3xl font-bold'>Ready to Optimize Your Logistics?</h2>
             <p className='text-md font-semibold mt-3'>Get a free quote today and discover how we can streamline your shipping operations.</p>
             <div className='flex gap-24 mt-6'>
-                <button className='px-5 py-3 border-2 bg-white text-impbg rounded-lg font-semibold'>Get Free Quote</button>
-                <button className='px-5 py-3 border-2 border-white rounded-lg font-semibold'>Contact Sales</button>
+                <button className='px-5 py-3 border-2 bg-white text-impbg rounded-lg font-semibold cursor-pointer'>Get Free Quote</button>
+                <button className='px-5 py-3 border-2 border-white rounded-lg font-semibold cursor-pointer'>Contact Sales</button>
             </div>
         </div>
         <div>

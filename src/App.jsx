@@ -8,6 +8,7 @@ import Facility from './components/Facility'
 import Impact from './components/Impact'
 import Testimonial from './components/Testimonial'
 import GetQoute from './components/GetQoute'
+import Footer from './components/Footer'
 const App = () => {
   return (
     <div>
@@ -20,6 +21,7 @@ const App = () => {
       <Impact />
       <Testimonial />
       <GetQoute />
+      <Footer/>
     </div>
   )
 }
